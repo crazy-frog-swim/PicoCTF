@@ -18,7 +18,7 @@ The hint show the flag can solve online
 
 
 ## Solution
-1. Decode the ciphertext by using this link https://cryptii.com/pipes/rot13-decoder with **ROT 13 decoder**. 
+1. Decode the ciphertext by using this link https://cryptii.com/pipes/rot13-decoder with **ROT 13** decoder. 
 <br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/117136072/229987109-3db01d54-2c5f-48c9-bc3f-abea24f7d39c.png">
